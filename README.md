@@ -2,7 +2,7 @@
 
 > **Learning in public through biotech, Python, and a bit of audio hacking.**
 
-I’m a biotech scientist with a background in molecular biology and assay development, currently learning Python, R, SQL, and AI-assisted coding. I’m exploring ways to build tools for data analysis, lab automation, and open-source research workflows — and sharing what I learn along the way.
+I’m a biotech scientist with a background in molecular biology and assay development, currently learning Python, R, SQL, and AI-assisted coding. I’m exploring ways to build tools for data analysis, lab automation, and open-source research workflows, and sharing what I learn along the way.
 
 You’ll find a mix of projects here, from practical tools to creative experiments. Outside of science and code, I like making music and exploring sound design (currently diving into Reaper and scripting).
 
