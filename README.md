@@ -20,7 +20,7 @@ You’ll find a mix of projects here, from practical tools to creative experimen
 
 - Python • R • SQL • Git • GitHub Actions  
 - AI-assisted coding (ChatGPT, Copilot)  
-- Reaper scripting + audio tooling
+- Reaper scripting (DAW / Digital Audio Workstation) + audio tooling
 
 ---
 
