@@ -19,7 +19,7 @@ You’ll find a mix of projects here, from practical tools to creative experimen
 ## 📌 Skills I’m Building
 
 - Python • R • SQL • Git • GitHub Actions  
-- AI-assisted coding (ChatGPT, Copilot)  
+- AI-assisted coding (ChatGPT[formerly], Claude, Copilot)  
 - Reaper scripting (DAW / Digital Audio Workstation) + audio tooling
 
 ---
